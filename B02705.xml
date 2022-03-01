@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse betwixt Alexander the Great, and Dindimus King of the Brachmans, which has been printed in Greek and Latine, and also into High Dutch, in anno 1642. / And made into English by T Raicroft in London, 1668.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02705</idno>
+            <idno type="STC">Wing D1575A</idno>
+            <idno type="STC">ESTC R174655</idno>
+            <idno type="EEBO-CITATION">51617686</idno>
+            <idno type="OCLC">ocm 51617686</idno>
+            <idno type="VID">175201</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02705)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175201)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2720:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse betwixt Alexander the Great, and Dindimus King of the Brachmans, which has been printed in Greek and Latine, and also into High Dutch, in anno 1642. / And made into English by T Raicroft in London, 1668.</title>
+                  <author>Raicroft, T., fl. 1688.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>From fragment B of the medieval alliterative romance of Alisaunder, which was allegedly translated from Latin ca. 1340 A.D.--cf. Cambridge Bibliography of English Literature.</note>
+                  <note>Pages unnumbered.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Alexander, --  the Great, 356-323 B.C. --  Legends --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175201:1" rendition="simple:additions"/>
+            <p>A DISCOURSE BETWIXT ALEXANDER The Great, And DINDIMUS King of the <hi>Brachmans,</hi> Which has been Printed in Greek and Latine, and alſo into high Dutch, in <hi>Anno</hi> 1642. And made into Engliſh by <hi>T Raicroft</hi> in <hi>London,</hi> 1668.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:175201:2"/>
+            <pb facs="tcp:175201:2"/>
+            <head>A DISCOURSE<lb/>
+Betwixt <hi>Alexander</hi> the Great, and <hi>Dindimus</hi> King of the <hi>Brachmans,</hi> which has been Printed in Greek and L<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>e, and alſo into high Dutch, in <hi>Anno</hi> 1642. And made into Engliſh by <hi>T. Raicroft</hi> in <hi>London,</hi> 1668.</head>
+            <p>AND becauſe ſome through ignorance in Hiſtory have preſumed to affirm that none of the Heathens ſo (called) knew or pra<g ref="char:EOLhyphen"/>ctiſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d ſuch things, for the conviction of them, and a general ſervice to the truth, we ſhall here alledge ſome remarkable examples to evince the truth of what is affirmed in thoſe particulars: which made <hi>Ariſtotle</hi> in his <hi>Ethicks lib. 10. chap. 4. 7.</hi> ſay, <hi>they that did theſe things did them, not as men, but as having ſome thing divine, or of God in them.</hi>
+            </p>
+            <p>Not then to quote at large the Noble Teſtimony given by <hi>Palladius, Ambroſius</hi> and others, concerning <hi>Dindimus</hi> King of the <hi>Brach<g ref="char:EOLhyphen"/>mans,</hi> as they are at large publiſhed in Latine and Greek and print<g ref="char:EOLhyphen"/>ed in London by <hi>T. Raicroft 1668.</hi> intituled <hi>Palladius de Gen<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>bus Indiae &amp; Bragmanibus. S. Ambroſius de moribus Brach<g ref="char:EOLhyphen"/>manorum, &amp; Anonymus de Brachmanibus.</hi> As alſo another in the high <hi>Dutch language,</hi> intituled, <hi>
+                  <hi>Hiſtorie von dem groſ<g ref="char:EOLhyphen"/>ſen Konig Alexander, &amp;c. Yetzo auffs new aus der al<g ref="char:EOLhyphen"/>ten Teutſchen ſprache in druck gebracht.</hi> Printed Anno 1642.</hi>
+            </p>
+            <p>All which do relate the excellent and Chriſtian Evangelical leſſons given by the ſaid <hi>Dindimns</hi> to <hi>Alexander,</hi> who ſent Ambaſſadors to him to require him to come to him, promiſing him great rewards if he did, and loſs of his head if he did not, and this in the Name of <hi>Alexander</hi> the King of all men and Son of the great God jupiter. But <hi>Dindimus</hi> ſmiling at this Vapour, and not m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ving his h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd from the leaves he lay upon, anſwered, <q>God the great King never begot injury, but light, peace, life, the wa<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r body and ſoul<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, which he alſo receives when they have finiſhed their courſe, nor was he ever the author of luſt. This i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my
+<pb facs="tcp:175201:3"/>
+Lord. and only God, who as he hates murther ſo he wag<g ref="char:EOLhyphen"/>eth not war, &amp;c. And a little further he ſaith. The things that I ſeek I eaſily atiain to, thoſe things which I regard nor I am not to be driven to. If therefore Alexander take my head he ſhall not deſtory my ſoule which will return to the Lord, while the body which was taken out of the earth ſhall thereunto return. For I being made a Spirit, ſhall aſcend unto my God, who included us in the fleſh, and placed us upon this earth t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> try whether we being gone forth from him, would live unto him, as he hath commanded: who deman<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s an account of thoſe that de<g ref="char:EOLhyphen"/>part; for he is a judge of all injuries: and the ſighs o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thoſe that are inj<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riouſly treated, become the pains of thoſe that injure them. L<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Alexander then threaten thoſe that love ſilver and gold, and fear death; neither of which hath place among the Brachmans, who do neither feare the one nor love the other. Go therefore, and tell Alexander, Dindimus wants him nor, and it he wants Dindimus, let him come to him.</q> 
+               <hi>Which being reported to Alexander, he was the more deſir us to ſee that ſingle old man that could conquer him after he had conquired ſo many Nations.</hi> 
+               <q>And ſo coming to him ſaid, I come to hear a word of wiſedome from thee whom I hear doſt converſe with God.</q> 
+               <hi>To whom Dindimus replyed,</hi> 
+               <q>Very willingly would I adminiſter to thee the words of the wiſdome of God, hadſt thou but place in thy mind to re<g ref="char:EOLhyphen"/>ceive the gift of God adminiſtred. But thy mind being fil<g ref="char:EOLhyphen"/>led with various luſts, inſatiable avarice, and a deviliſh de<g ref="char:EOLhyphen"/>ſire to rule, which fights againſt me, and my deſigne of drawing thee off from deſtroying Nations and ſhedding hu<g ref="char:EOLhyphen"/>m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne blood is in all things contrary to the wiſdome by which I and the Brachmans are led, who worſhip God, love men, contemn gold, deſpiſe death, and ſlight pleaſures: whereas Alexander and his, fear death, love gold, covet pleaſure, hate men, and deſpiſe God. <hi>adding</hi> how can I ſpeak unto thee the words of the wiſdome of God, whoſe cogitations are ſo filled with pomp, oſtentation and inordi<g ref="char:EOLhyphen"/>nate luſte that a whole world is not able to ſatiate thee?</q> 
+               <hi>how<g ref="char:EOLhyphen"/>ever
+<pb facs="tcp:175201:3"/>
+he refuſed not to give him that counſell, which Alexander was (as he confuſſed) convinced in his heart was good, but could not fol<g ref="char:EOLhyphen"/>low, Viz.</hi> 
+               <q>to ceaſe warring againſt men without, &amp; engage himſelf in another warfare, againſt the enemies within him<g ref="char:EOLhyphen"/>ſelf, his luſts, his affections, his deſires, ſhe deſired to be rich indeed and to be a true victor: aſuring him that all his po<g ref="char:EOLhyphen"/>wer, all his hoſts, all his ſtrength, all his Riches, all his Pomp, would at laſt not availe him any thing; But (ſaith he) if thou will hearken to my words, thou ſha't poſſeſs of my goods, who have God to my friend, and whole inſpi<g ref="char:EOLhyphen"/>ration I enjoy within me. Thus thou ſhalt overcome luſt the mother of penory, which never obtains what it ſeeks. Thus thou ſhalt, with us, honour thy ſelf, by becoming ſuch as God had created thee. <hi>Adding</hi> though thou ſlay me for telling thee theſe profitable things, If ar not. For (ſaith he) I ſhall return to my God which created all things, who knows my cauſe, and before whom nothing is hid<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en.</q>
+            </p>
+            <p>
+               <q>I know not (ſaith he) whether thou ſhalt be ſo happy as to find thy ſelf p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſwaded by my words, but I aſſure thee, it thouſe not, when thou art departed hence I ſhall ſee thee puniſhed for thy actions, and hear thee lament with deep and ſharp ſighs, the miſery thou haſt put many to, &amp;c. Viz. when thou ſhalt have no other companion then them mo<g ref="char:EOLhyphen"/>ry of the evils thou haſt heap<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d up upon thy ſelf. For (ſaith he) I know the pains juſtly inflicted by God upon unjuſt men. Then thou ſhalt ſay unto me, Dindimus, how good a counſeller wert thou to me? <hi>&amp;c</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Thoſe things Alexander heard (as tis ſaid of Herod concerning John the Baptiſt) not only without wrath, but with a placed counte<g ref="char:EOLhyphen"/>nance, and replyed.</hi> 
+               <q>O Dindimus thou true teacher of the Brachmans! I have found thee the moſt excellent amongſt men, by reaſon of the Spirit that is in thee; I know all that thou haſt ſpoken is true; God hath brought thee forth and ſent thee into this place: in which thou art happy and rich, wanting nothing, all thy life long quiet, injoying much reſt.</q>
+            </p>
+            <p>
+               <pb facs="tcp:175201:4"/>
+               <q>But what ſhall I do who cohabit with continual ſlaugh<g ref="char:EOLhyphen"/>ters? &amp;c. who if I would live in the deſert, my Lievtenants would not ſuffer me, and though they would being in this ſtate. it is not lawful for me to quit them, for how ſhall I defend my ſelf before God, who hath aſſigned me this Lot.</q>
+            </p>
+            <p>
+               <q>But thou reverend old man and ſervant of God, for theſe words of wiſdom wherewith thou haſt helped, and rejoy<g ref="char:EOLhyphen"/>ced me, dehorting me from war, receive thou my preſents and deſpiſe me not: I am affected with k<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndneſs, honour<g ref="char:EOLhyphen"/>ing wiſdom,</q> 
+               <hi>and ſo commanded his ſervants to bring forth gold and ſeveral ſorts of array, bread and oyle. Which Dindmus behold<g ref="char:EOLhyphen"/>ing lauged, ſaing to Alexander</hi> 
+               <q>Perſwade (if thou canſt, the birds about the woods to receive thy gold, and ſing the bet<g ref="char:EOLhyphen"/>ter for it: but if thou canſt not p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſwade them, nor ſhalt thou ever perſwade me, to be worſe then they. I there<g ref="char:EOLhyphen"/>fore receive no anprefitable preſent, which I can neither eat nor drink, nor do I ſerve ſoul-hurtful riches, &amp;c. Here's nothing in this deſert to be bought with gold, For God gi<g ref="char:EOLhyphen"/>ves me all things freely, &amp;c. ſelling nothing for gold, but freely beſtowing all good things, and even the mind on thoſe that freely accept it, <hi>&amp;c.</hi>
+               </q> 
+               <hi>But the oyle be took; and walk<g ref="char:EOLhyphen"/>ing about the wood gathered ſome ſticks, and kindling a fire, he ſaid,</hi> 
+               <q>The Brachmans have all things, being ſed by providence, and into the fire he powred the ovle, till it was all conſum<g ref="char:EOLhyphen"/>ed and ſang a hymne unto God. Oh God immortall, I give thee in all things thanks. For thou ruleſt in all things, giving all things abundantly unto thy creatures for their food. Thou creating this world doſt preſerve it, ex<g ref="char:EOLhyphen"/>pecting the ſouls which thou haſt ſent into it, that thou mayſt, as God, juſtify thoſe that have laid a pious life, and condemn thoſe that have not obeyed thy laws. For all righteous judgment is with thee and life eternal prepared by thee. Who with eternal goodneſs ſheweſt mercy unto all.</q>
+            </p>
+            <p>He that ſhall read <hi>Hermes Triſmegiſtus, his Divine Pimander,</hi> tranſlated out of Arabick by the famous Dr. Everard, printed in Engliſh 1657. and eſpecially his book, or <hi>ſecret ſermon in the
+<pb facs="tcp:175201:4"/>
+mount, of Regeneration, and the profeſſion of ſilence,</hi> if he underſt and what he reads, ſhall without all heſitation ſay, the things there uttered tranſcend the reach of natural wiſdome and proceed from a more profound ſource. As alſo his Doctrine in his 12. Book called <hi>Crater or Monas,</hi> where he doth not darkly preach the Baptiſm of Chriſt, i. e. of the Spirit which he (in his dialect) calls the mind.</p>
+            <p>A certain Indian Monk or ſecluſe, an ancient man living in a chappel in toe Iſland Calempluy which certain Portugals having robbed of no ſmall treaſure, they were by this old man ſharply reproved and adviſed, <hi>if they eſcape the juſt judgment of God, and find mercy and pardon of their ſins, that their ſouls might not periſh eternally, to reſtore the ſpoyle they had taken a<g ref="char:EOLhyphen"/>way, to pray with tears for forgiveneſs, and as freely to give almes as they would beſtow any thing upon themſelves.</hi> Which they pro<g ref="char:EOLhyphen"/>miſed to do, but fearing leaſt their prey might be taken from them, they asked him whether there were no arms upon the Iſland: the <hi>old man</hi> replyed no, adding <hi>that all that would go to heaven, ſtood more in need of patience to bear injuries, then arms to revenge themſelves. <hi>See Ridderus</hi> his ſhamed Cbriſtian.</hi>
+            </p>
+            <p>
+               <hi>Lucupang Emperor of China, taught that it was the part of a great mind, to forgive injuries, and that the greatneſs of the mind never ſhines clearer then where opportunities of revenge are neglected. Demo<g ref="char:EOLhyphen"/>nax</hi> taught that <hi>we ought not to be wrath with offenders, but endea<g ref="char:EOLhyphen"/>vour to become their amenders: to ſin,</hi> ſaith he, <hi>is humane, but to amend the faults of others is the part of God, or of men moſt near unto him.</hi>
+            </p>
+            <p>
+               <hi>Claudianus</hi> taught, <hi>that we ought to be ready to forgive offenders, of our own accord, and more ready to lay aſide anger then to ſtirr it up, and not refuſe reconciliation with any that ſeek it.</hi>
+            </p>
+            <p>
+               <hi>King <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </hi> the Emperor of China ſaid, <hi>there is nothing that encreaſeth vertue, more then the ſlighting of all ſuſtained injuries.</hi>
+            </p>
+            <p>Nothing inferiour to this was that action of <hi>Lycurgus</hi> that famous <hi>Spartan Legiſlator,</hi> who, for making wholeſom laws to reduce his people to good manners was hated ſtoned, and, among many other inſolencies ſuſtained, had one of his eyes ſmot out, with a cudgell, by a certain young man called
+<pb facs="tcp:175201:5"/>
+               <hi>Alexander,</hi> for which he being apprehended, and condem<g ref="char:EOLhyphen"/>ned to dye, <hi>Licurgus redeemed him, took him as a friend into his own houſe and there taught him to live well, ſo that its ſaid be became a good man.</hi> If this be not to overcome evil with good; what is?</p>
+            <p>That famous Athenian General <hi>Pericles</hi> having been upon a time, all the day long reviled by a certain man, who fol<g ref="char:EOLhyphen"/>lowed him even to his houſe at night railing at him, was by this noble man ſo meekly born <hi>that he not only reviled him not a<g ref="char:EOLhyphen"/>gain but commanded his ſervant, with his lanterne to light him home.</hi>
+            </p>
+            <p>
+               <hi>Phocion</hi> that noble Athenian being unjuſtly condemned to dye, by the drinking (after manner of that countrey) a cup of p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yſon, being asked what he would leave in charge to his ſon, anſwered, <hi>Nothing but this, that he ſhould never ſo re<g ref="char:EOLhyphen"/>member this cup, as to avenge his death.</hi>
+            </p>
+            <p>
+               <hi>Ariſtides</hi> an Athenian noble and righteous man, being ba<g ref="char:EOLhyphen"/>niſhed out of Athens, and in order thereunto, by the Magi<g ref="char:EOLhyphen"/>ſtrats led out of town, a certain ill-natured perſon, ran after him, and ſpit in his face. <hi>Whereupon the meek man only d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſired the Magiſtrats to teach that man for the future to be more mannerly. And after he was, through envy thus unjuſtly baniſhed, ſeing his countrey in perill, ſecretly helped it againſt King X<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rxes, being the chief occaſion of that victory.</hi>
+            </p>
+            <p>
+               <hi>Solon</hi> being by one abuſed who ſpit in his face, <hi>nothing mo<g ref="char:EOLhyphen"/>ved thereat,</hi> ſaid, <hi>If a fiſher man, to catch a ſmall fiſh, bear the ſea water, why ſhould not I to catch a man bear th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</hi>
+            </p>
+            <p>Juſt ſo <hi>Ariſtippus,</hi> when having reproved Dionyſius, who for it ſpat in his face; ſaid, <hi>If a fiſher man be not afraid of being wet to catch a ſmall fiſh, why ſhould I to catch a whole ſalmon fear a little ſprinkleing?</hi>
+            </p>
+            <p>The ſame <hi>Ariſtippus</hi> being railed at held his tongue, and went his way; the Reviler following him, ſaid. What! Doſt thou runn away? <hi>Ariſtippus</hi> replyed, <hi>Thou haſt power to ſpeak evill, and I to forbeare hearing (or heeding) it.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175201:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
